@@ -5,7 +5,7 @@
     <artifactId>javelin_2.10</artifactId>
     <packaging>jar</packaging>
     <description>Javelin</description>
-    <version>1.3</version>
+    <version>1.4</version>
     <name>Javelin</name>
     <organization>
         <name>ivan</name>
@@ -26,11 +26,6 @@
                     <artifactId>slf4j-log4j12</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-io</artifactId>
-            <version>1.3.2</version>
         </dependency>
         <dependency>
             <groupId>ivan</groupId>
